@@ -7,3 +7,4 @@
 // http://colorbrewer2.org/?type=sequential&scheme=RdPu&n=9
 
 Check out the fantastic pallet tool http://colorbrewer2.org
+Artwork on Redbubble at: https://www.redbubble.com/people/rupertrussell/works/33996964-circle-packing-205?asc=u
